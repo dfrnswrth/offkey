@@ -1,0 +1,11 @@
+{
+  "name": "offkey",
+  "version": "0.1.0",
+  "description": "A simple keycode library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Farnsworth / @dfrnswrth",
+  "license": "MIT"
+}
